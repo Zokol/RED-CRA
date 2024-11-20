@@ -28,4 +28,5 @@ I needed a simple browser-based tool to inject notes into the network traffic.
 Mostly used for notekeeping during testing of physical devices, allowing forming connection between user actions (registering a device via mobile app) and the collected network traffic. 
 
 Project home: http://note.juva.lu
+
 Source: https://github.com/Zokol/note
