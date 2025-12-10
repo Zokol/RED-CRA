@@ -1,5 +1,6 @@
 # RED-CRA
-Thoughts and tools for practical testing against upcoming regulation
+
+Disobey 2025 talk: ![State-Of-Union / Disobey 2025](https://www.youtube.com/watch?v=gXucurU5_iY&t=1831s&pp=ygULaGVpa2tpIGp1dmE%3D)
 
 ## Regulation documents
 
