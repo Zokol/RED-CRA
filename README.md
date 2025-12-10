@@ -1,4 +1,14 @@
-# RED-CRA
+# RED-CRA research project 2023->
+
+My RED-CRA research project was started in 2023, aiming to form methods and tools for practical IoT evaluation.
+
+## Research questions
+1) How vulnerable the common intrenet-connected consumer electronics are?
+2) How to detect these vulnerabilities with minimal resources?
+3) Does the upcoming regualion actually have any effect in the security of these devices?
+   
+This repository contains my notes of the state of regulation around 2023-2024, as well as the tools and methods developed during the research.
+First phase of my research ended by February 2025, with the publication of the findings at Disobey 2025.
 
 Disobey 2025 talk: ![State-Of-Union / Disobey 2025](https://www.youtube.com/watch?v=gXucurU5_iY&t=1831s&pp=ygULaGVpa2tpIGp1dmE%3D)
 
